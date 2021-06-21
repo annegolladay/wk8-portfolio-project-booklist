@@ -93,11 +93,12 @@ input[type='text'] {
 
 .book-title {
     font-size: 18px;
-    margin: 5px 0;
+    margin: 10px 10px;
+    text-align: center;
 }
 
 .book-rating {
-    font-size: 15px;
+    font-size: 13px;
     margin: 5px 0;
 }
 
