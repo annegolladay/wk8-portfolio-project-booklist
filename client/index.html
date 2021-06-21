@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorite Books List</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lora&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Favorite Books List</h1>
+    </header>
+    <main>
+
+        <form>
+            <input 
+                type="text"
+                id="title"
+                placeholder="Book title"/>
+            <input 
+                type="text"
+                id="img"
+                placeholder="Image URL"/>
+            <section id="ratings-container">
+                <p>How many stars? Rate this Book!</p>
+                <div id="radio-container">
+                    <label for="one">
+                        <input 
+                            type="radio"
+                            name="ratings"
+                            value="1"
+                            id="one"/>
+                            1
+                    </label>
+                    <label for="two">
+                        <input 
+                            type="radio"
+                            name="ratings"
+                            value="2"
+                            id="two"/>
+                            2
+                    </label>
+                    <label for="three">
+                        <input 
+                            type="radio"
+                            name="ratings"
+                            value="3"
+                            id="three"/>
+                            3
+                    </label>
+                    <label for="four">
+                        <input 
+                            type="radio"
+                            name="ratings"
+                            value="4"
+                            id="four"/>
+                            4
+                    </label>
+                    <label for="five">
+                        <input 
+                            type="radio"
+                            name="ratings"
+                            value="5"
+                            id="five"/>
+                            5
+                    </label>
+                </div>
+            </section>
+            <button>add book</button>
+        </form>
+
+        <section id="books-container"></section>
+
+    </main>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

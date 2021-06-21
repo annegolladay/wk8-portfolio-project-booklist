@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Pride and Prejudice",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcaGKhhqiYZEf9501TjviRMO3wPupT3htMbmz1V4Exp9DxHlGUptmGTNoDkE_GCfEUdSBCEIfY&usqp=CAc"
+    },
+    {
+        "id": 2,
+        "title": "Emma",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTujFO2plmlKdRk_0RXZl-kQ2LR2rV1BS2MUwM9a1B9exMiNUGhiXgFW1cugw&usqp=CAc"
+    },
+    {
+        "id": 3,
+        "title": "Sense and Sensibility",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhZdDO1tspkhMWGOw_zeTSJLSeEuucvjyWhr86RqM6j1FM4B1lhvdp3Ty_ahQsaE8xCb8buWAL&usqp=CAc"
+    },
+    {
+        "id": 4,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3lCgvztr1Z_v5VaaIhiGQdCS_Fj3pShKRg71sdrSsJA_ihAxg3FZ1x9hXA&usqp=CAc"
+    },
+    {
+        "id": 5,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-AVSxidZAPR1nhh9dSsF4B8bKv5oWxJNJTbxZ5MmDNJ8aIMB-X69W4rYhg&usqp=CAc"
+    },
+    {
+        "id": 6,
+        "title": "The Hobbit",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1nHYK0Eecaodvt6w5e7CZTUz6EnOGvFP6vQ-QKRFMFGVel0TJn9WcXdqOZg&usqp=CAc"
+    },
+    {
+        "id": 7,
+        "title": "Jane Eyre",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNXN2yRlrqQCL4KFxgfNlNUv-O3eBEX_Wev9thq6ptqUaZ5zcZ_YCw-BQVYGD0a3BPxFegA9r&usqp=CAc"
+    },
+    {
+        "id": 8,
+        "title": "The Count of Monte Cristo",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4nw0NzpujXqFnG7USkhAer38wJhcUTgoY8XQo6NzKbxlUL9iNuE6nKVF50R0&usqp=CAc"
+    },
+    {
+        "id": 9,
+        "title": "Unbroken",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWDLmxZpYlrSYX9L2w45gPiqZYbIrOUNkUzxqFN7YBqw4chl_WQu81fbl_ig&usqp=CAc"
+    },
+    {
+        "id": 10,
+        "title": "Little Women",
+        "rating": 5,
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuC7dXYTT09x4XmO3_pc-e7vsuQZZYcAetYVe4_MDKvVK25EyHNQMpZ4Z3hbou1IO9rOXrzXU&usqp=CAc"
+    }
+]
