@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: aliceblue
 }
 
 header {
@@ -26,8 +26,8 @@ h1 {
 }
 
 form {
-    width: 350px;
-    height: 350px;
+    width: 200px;
+    height: 200px;
     background-color: white;
     position: relative;
     display: flex;
@@ -39,7 +39,7 @@ form {
 }
 
 button {
-    background-color: purple;
+    background-color: blue;
     width: 75px;
     height: 25px;
     color: white;
@@ -51,7 +51,7 @@ input[type='text'] {
     width: 85%;
     height: 30px;
     border: none;
-    border-bottom: 2px solid purple;
+    border-bottom: 2px solid blue;
 }
 
 #ratings-container {
@@ -92,7 +92,7 @@ input[type='text'] {
 }
 
 .book-title {
-    font-size: 18px;
+    font-size: 13px;
     margin: 10px 10px;
     text-align: center;
 }
